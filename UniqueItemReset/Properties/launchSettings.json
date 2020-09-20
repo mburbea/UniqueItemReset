@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UniqueItemReset": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Program Files (x86)\\Steam\\userdata\\107335713\\1041720\\remote\\autocloud\\save\\svd_fmt_5_10.sav\""
+    }
+  }
+}
